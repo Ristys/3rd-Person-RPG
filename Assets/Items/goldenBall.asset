@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: goldenBall
   m_EditorClassIdentifier: 
   name: Golden Ball
-  icon: {fileID: 21300000, guid: 53083031b7764d74991afbf1084ff66c, type: 3}
+  icon: {fileID: 21300000, guid: 41daba5b7c0cd804a8447174de11dafc, type: 3}
   isStandard: 0
